@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Daniel Rotaru 🧛
 - daniel_rotaru@hotmail.com
 - https://www.linkedin.com/in/daniel-rotaru-9a1858205/
 
-  💻 **Tech Stack:**
+## 💻 **Tech Stack:**
 
 ![Badge](https://img.shields.io/badge/Tech-HTML-orange)
 ![Badge](https://img.shields.io/badge/Tech-CSS-blue)
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm Daniel Rotaru 🧛
 ![Badge](https://img.shields.io/badge/Tech-Bootstrap-purple)
 
 
-📊 **GitHub Stats:**
+## 📊 **GitHub Stats:**
 
 <!-- GitHub Readme Stats -->
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hipnosic&show_icons=true&theme=radical)
