@@ -17,6 +17,18 @@ Welcome to my GitHub profile! I'm Daniel Rotaru 🧛
 ![Badge](https://img.shields.io/badge/Tech-React-green)
 ![Badge](https://img.shields.io/badge/Tech-Vue.js-brightgreen)
 ![Badge](https://img.shields.io/badge/Tech-Bootstrap-purple)
+![Badge](https://img.shields.io/badge/Tech-HTML5-orange)
+![Badge](https://img.shields.io/badge/Tech-CSS3-blue)
+![Badge](https://img.shields.io/badge/Tech-Sass-pink)
+![Badge](https://img.shields.io/badge/Tech-JavaScript-yellow)
+![Badge](https://img.shields.io/badge/Tech-Node.js-green)
+![Badge](https://img.shields.io/badge/Tech-Express.js-lightgrey)
+![Badge](https://img.shields.io/badge/Tech-Typescript-blueviolet)
+![Badge](https://img.shields.io/badge/Tech-Git-orange)
+![Badge](https://img.shields.io/badge/Tech-Github-black)
+![Badge](https://img.shields.io/badge/Tech-Figma-purple)
+![Badge](https://img.shields.io/badge/Tech-MongoDB-green)
+![Badge](https://img.shields.io/badge/Tech-MySQL-blue)
 
 
 ## 📊 **GitHub Stats:**
