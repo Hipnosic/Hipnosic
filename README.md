@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm Daniel Rotaru 🧛
 ![Badge](https://img.shields.io/badge/Tech-MySQL-blue)
 
 ## 🧛 About me
-With seven years of experience working in a prison environment, collaborating with diverse individuals, I've recently transitioned into studying web development. As a passionate frontend developer student, I'm dedicated to evolving my skills and interests in the dynamic field of web development.
+As a passionate frontend developer student, I'm dedicated to evolving my skills and interests in the dynamic field of web development.
 
 ## 📊 **GitHub Stats:**
 
